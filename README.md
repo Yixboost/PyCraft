@@ -6,6 +6,18 @@ This project is a Minecraft-like game built using the **Ursina Engine** in Pytho
 
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue) ![Numpy](https://img.shields.io/badge/numpy-1.21%2B-orange) ![Ursina](https://img.shields.io/badge/ursina-5.0%2B-green)
 
+## Table of Contents
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation and Running the Game](#installation-and-running-the-game)
+  - [Windows](#windows)
+  - [Linux](#linux)
+- [Game Description](#game-description)
+- [Controls](#controls)
+- [Screenshots](#screenshots)
+- [Creators](#creators)
+- [Enjoy!](#enjoy)
+
 ## Features
 - Build blocks in a voxel environment.
 - First-person perspective using **FirstPersonController**.
