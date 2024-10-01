@@ -3,6 +3,7 @@
 ![Minecraft Ursina Banner](https://github.com/Yixboost/Minecraft-with-Ursina-Python/raw/main/banner-ursina.png?raw=true)
 
 This project is a Minecraft-like game built using the **Ursina Engine** in Python. In this game, you can build structures, explore the environment, and experience a basic voxel-based world.
+
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 
 ## Features
