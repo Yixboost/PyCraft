@@ -34,7 +34,8 @@ This project is a Minecraft-like game built using the **Ursina Engine** in Pytho
     python "Minecraft Python (Ursina Engine).py"
     ```
 
-###Linux
+### Linux
+
 1. **Clone the repository**:
 
    ```bash
