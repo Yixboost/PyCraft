@@ -81,7 +81,7 @@ Controls
     Use the numbers 0-9 to use different blocks
 
 ## Screenshots
-![Screenshot 1](link-to-your-screenshot1.png)  
+![Screenshot 1](https://github.com/Yixboost/Minecraft-with-Ursina-Python/blob/main/screenshot.png?raw=true)  
 
 ## Creators
 This project was created by:
