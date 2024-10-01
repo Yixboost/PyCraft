@@ -4,7 +4,7 @@
 
 This project is a Minecraft-like game built using the **Ursina Engine** in Python. In this game, you can build structures, explore the environment, and experience a basic voxel-based world.
 
-![Python](https://img.shields.io/badge/python-3.7%2B-blue)
+![Python](https://img.shields.io/badge/python-3.7%2B-blue) ![Numpy](https://img.shields.io/badge/numpy-1.21%2B-orange) ![Ursina](https://img.shields.io/badge/ursina-5.0%2B-green)
 
 ## Features
 - Build blocks in a voxel environment.
