@@ -64,5 +64,6 @@ Controls
     Space: Jump
     Left Mouse Button: Break block
     Right Mouse Button: Place block
+    Use the numbers 0-9 to use different blocks
 
 Enjoy building your world in this Minecraft-like game using the Ursina Engine!
