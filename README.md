@@ -80,4 +80,13 @@ Controls
     Right Mouse Button: Place block
     Use the numbers 0-9 to use different blocks
 
+## Screenshots
+![Screenshot 1](link-to-your-screenshot1.png)  
+
+## Creators
+This project was created by:
+- **Jonas van Leeuwen** (GitHub: [jonasvanleeuwen19](https://github.com/jonasvanleeuwen19))
+- **Valdtaniem** (GitHub: [Valdtaniem](https://github.com/Valdtaniem))
+
+
 Enjoy building your world in this Minecraft-like game using the Ursina Engine!
