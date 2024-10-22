@@ -73,5 +73,3 @@ This project was created by:
 ![Minecraft Ursina Banner](https://github.com/Yixboost/Minecraft-with-Ursina-Python/raw/main/banner-ursina.png?raw=true)
 
 Enjoy building your world in this Minecraft-like game using the Ursina Engine! 🎉
-
-Feel free to adjust any emojis or sections as you see fit!
