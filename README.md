@@ -1,7 +1,7 @@
 ![pycraft-logo](https://github.com/user-attachments/assets/4b776b6a-08ff-4b1a-a774-88bec849c90f)
 
 # Minecraft with Ursina in Python 🏗️🌍
-This project is a Minecraft-like game built using the **Ursina Engine** in Python. In this game, you can build structures, explore the environment, and experience a basic voxel-based world. [Play Now](https://yixboost.github.io/minecraft-python/)
+This project is a Minecraft-like game built using the **Ursina Engine** in Python. In this game, you can build structures, explore the environment, and experience a basic voxel-based world.
 
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue) ![Numpy](https://img.shields.io/badge/numpy-1.21%2B-orange) ![Ursina](https://img.shields.io/badge/ursina-5.0%2B-green)
 
